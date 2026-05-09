@@ -6,7 +6,13 @@
 		{
 			"name": "el mejor lab de servo",
 			"path": "el mejor lab de servo"
+		},
+		{
+			"name": "dynamics_of_mechanical_systems",
+			"path": "dynamics_of_mechanical_systems"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "IMEC2543"
+	}
 }
